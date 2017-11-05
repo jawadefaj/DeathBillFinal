@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 504b0e15ce720234db0c2c2c84d5062e
+timeCreated: 1449654010
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jeep_off:ft_wheel_rt
+    100004: jeep_off:paki_new_rigged2:Bind_Head
+    100006: jeep_off:paki_new_rigged2:Bind_Hips
+    100008: jeep_off:paki_new_rigged2:Bind_Joint_GRP
+    100010: jeep_off:paki_new_rigged2:Bind_LeftArm
+    100012: jeep_off:paki_new_rigged2:Bind_LeftFoot
+    100014: jeep_off:paki_new_rigged2:Bind_LeftForeArm
+    100016: jeep_off:paki_new_rigged2:Bind_LeftHand
+    100018: jeep_off:paki_new_rigged2:Bind_LeftHandIndex1
+    100020: jeep_off:paki_new_rigged2:Bind_LeftHandIndex2
+    100022: jeep_off:paki_new_rigged2:Bind_LeftHandIndex3
+    100024: jeep_off:paki_new_rigged2:Bind_LeftHandThumb1
+    100026: jeep_off:paki_new_rigged2:Bind_LeftHandThumb2
+    100028: jeep_off:paki_new_rigged2:Bind_LeftHandThumb3
+    100030: jeep_off:paki_new_rigged2:Bind_LeftLeg
+    100032: jeep_off:paki_new_rigged2:Bind_LeftShoulder
+    100034: jeep_off:paki_new_rigged2:Bind_LeftToeBase
+    100036: jeep_off:paki_new_rigged2:Bind_LeftUpLeg
+    100038: jeep_off:paki_new_rigged2:Bind_Neck
+    100040: jeep_off:paki_new_rigged2:Bind_RightArm
+    100042: jeep_off:paki_new_rigged2:Bind_RightFoot
+    100044: jeep_off:paki_new_rigged2:Bind_RightForeArm
+    100046: jeep_off:paki_new_rigged2:Bind_RightHand
+    100048: jeep_off:paki_new_rigged2:Bind_RightHandIndex1
+    100050: jeep_off:paki_new_rigged2:Bind_RightHandIndex2
+    100052: jeep_off:paki_new_rigged2:Bind_RightHandIndex3
+    100054: jeep_off:paki_new_rigged2:Bind_RightHandThumb1
+    100056: jeep_off:paki_new_rigged2:Bind_RightHandThumb2
+    100058: jeep_off:paki_new_rigged2:Bind_RightHandThumb3
+    100060: jeep_off:paki_new_rigged2:Bind_RightLeg
+    100062: jeep_off:paki_new_rigged2:Bind_RightShoulder
+    100064: jeep_off:paki_new_rigged2:Bind_RightToeBase
+    100066: jeep_off:paki_new_rigged2:Bind_RightUpLeg
+    100068: jeep_off:paki_new_rigged2:Bind_Spine
+    100070: jeep_off:paki_new_rigged2:Bind_Spine1
+    100072: jeep_off:paki_new_rigged2:Bind_Spine2
+    100074: jeep_off:paki_new_rigged2:Character
+    100076: jeep_off:paki_new_rigged2:Joint_GRP
+    100078: jeep_off:paki_new_rigged2:Mesh_GRP
+    100080: jeep_off:paki_new_rigged2:Mesh_polySurface19
+    400000: //RootNode
+    400002: jeep_off:ft_wheel_rt
+    400004: jeep_off:paki_new_rigged2:Bind_Head
+    400006: jeep_off:paki_new_rigged2:Bind_Hips
+    400008: jeep_off:paki_new_rigged2:Bind_Joint_GRP
+    400010: jeep_off:paki_new_rigged2:Bind_LeftArm
+    400012: jeep_off:paki_new_rigged2:Bind_LeftFoot
+    400014: jeep_off:paki_new_rigged2:Bind_LeftForeArm
+    400016: jeep_off:paki_new_rigged2:Bind_LeftHand
+    400018: jeep_off:paki_new_rigged2:Bind_LeftHandIndex1
+    400020: jeep_off:paki_new_rigged2:Bind_LeftHandIndex2
+    400022: jeep_off:paki_new_rigged2:Bind_LeftHandIndex3
+    400024: jeep_off:paki_new_rigged2:Bind_LeftHandThumb1
+    400026: jeep_off:paki_new_rigged2:Bind_LeftHandThumb2
+    400028: jeep_off:paki_new_rigged2:Bind_LeftHandThumb3
+    400030: jeep_off:paki_new_rigged2:Bind_LeftLeg
+    400032: jeep_off:paki_new_rigged2:Bind_LeftShoulder
+    400034: jeep_off:paki_new_rigged2:Bind_LeftToeBase
+    400036: jeep_off:paki_new_rigged2:Bind_LeftUpLeg
+    400038: jeep_off:paki_new_rigged2:Bind_Neck
+    400040: jeep_off:paki_new_rigged2:Bind_RightArm
+    400042: jeep_off:paki_new_rigged2:Bind_RightFoot
+    400044: jeep_off:paki_new_rigged2:Bind_RightForeArm
+    400046: jeep_off:paki_new_rigged2:Bind_RightHand
+    400048: jeep_off:paki_new_rigged2:Bind_RightHandIndex1
+    400050: jeep_off:paki_new_rigged2:Bind_RightHandIndex2
+    400052: jeep_off:paki_new_rigged2:Bind_RightHandIndex3
+    400054: jeep_off:paki_new_rigged2:Bind_RightHandThumb1
+    400056: jeep_off:paki_new_rigged2:Bind_RightHandThumb2
+    400058: jeep_off:paki_new_rigged2:Bind_RightHandThumb3
+    400060: jeep_off:paki_new_rigged2:Bind_RightLeg
+    400062: jeep_off:paki_new_rigged2:Bind_RightShoulder
+    400064: jeep_off:paki_new_rigged2:Bind_RightToeBase
+    400066: jeep_off:paki_new_rigged2:Bind_RightUpLeg
+    400068: jeep_off:paki_new_rigged2:Bind_Spine
+    400070: jeep_off:paki_new_rigged2:Bind_Spine1
+    400072: jeep_off:paki_new_rigged2:Bind_Spine2
+    400074: jeep_off:paki_new_rigged2:Character
+    400076: jeep_off:paki_new_rigged2:Joint_GRP
+    400078: jeep_off:paki_new_rigged2:Mesh_GRP
+    400080: jeep_off:paki_new_rigged2:Mesh_polySurface19
+    2300000: jeep_off:ft_wheel_rt
+    3300000: jeep_off:ft_wheel_rt
+    4300000: jeep_off:paki_new_rigged2:Mesh_polySurface19
+    4300002: jeep_off:ft_wheel_rt
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: jeep_off:paki_new_rigged2:Mesh_polySurface19
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 154c0b58e93c8214d9c0a7bdf478ee8c
+timeCreated: 1457685645
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: beonet:pCube1
+    100002: beonet:pCube2
+    100004: beonet:pCylinder1
+    100006: beonet:pCylinder2
+    100008: beonet:pCylinder3
+    100010: beonet:pCylinder4
+    100012: beonet:polySurface1
+    100014: beonet:polySurface1 1
+    100016: beonet:polySurface10
+    100018: beonet:polySurface2
+    100020: beonet:polySurface3
+    100022: beonet:polySurface4
+    100024: beonet:polySurface5
+    100026: beonet:polySurface5 1
+    100028: beonet:polySurface6
+    100030: beonet:polySurface7
+    100032: beonet:polySurface8
+    100034: beonet:polySurface9
+    100036: beonet:transform1
+    100038: beonet:transform10
+    100040: beonet:transform11
+    100042: beonet:transform12
+    100044: beonet:transform13
+    100046: beonet:transform14
+    100048: beonet:transform15
+    100050: beonet:transform16
+    100052: beonet:transform17
+    100054: beonet:transform2
+    100056: beonet:transform3
+    100058: beonet:transform4
+    100060: beonet:transform5
+    100062: beonet:transform6
+    100064: beonet:transform7
+    100066: beonet:transform8
+    100068: beonet:transform9
+    100070: //RootNode
+    100072: polySurface1
+    100074: polySurface10
+    100076: polySurface11
+    100078: polySurface12
+    100080: polySurface13
+    100082: polySurface2
+    100084: polySurface2 1
+    100086: polySurface3
+    100088: polySurface4
+    100090: polySurface5
+    100092: polySurface6
+    100094: polySurface7
+    100096: polySurface8
+    100098: polySurface9
+    100100: transform1
+    100102: transform10
+    100104: transform11
+    100106: transform12
+    100108: transform2
+    100110: transform3
+    100112: transform4
+    100114: transform5
+    100116: transform6
+    100118: transform7
+    100120: transform8
+    100122: transform9
+    400000: beonet:pCube1
+    400002: beonet:pCube2
+    400004: beonet:pCylinder1
+    400006: beonet:pCylinder2
+    400008: beonet:pCylinder3
+    400010: beonet:pCylinder4
+    400012: beonet:polySurface1
+    400014: beonet:polySurface1 1
+    400016: beonet:polySurface10
+    400018: beonet:polySurface2
+    400020: beonet:polySurface3
+    400022: beonet:polySurface4
+    400024: beonet:polySurface5
+    400026: beonet:polySurface5 1
+    400028: beonet:polySurface6
+    400030: beonet:polySurface7
+    400032: beonet:polySurface8
+    400034: beonet:polySurface9
+    400036: beonet:transform1
+    400038: beonet:transform10
+    400040: beonet:transform11
+    400042: beonet:transform12
+    400044: beonet:transform13
+    400046: beonet:transform14
+    400048: beonet:transform15
+    400050: beonet:transform16
+    400052: beonet:transform17
+    400054: beonet:transform2
+    400056: beonet:transform3
+    400058: beonet:transform4
+    400060: beonet:transform5
+    400062: beonet:transform6
+    400064: beonet:transform7
+    400066: beonet:transform8
+    400068: beonet:transform9
+    400070: //RootNode
+    400072: polySurface1
+    400074: polySurface10
+    400076: polySurface11
+    400078: polySurface12
+    400080: polySurface13
+    400082: polySurface2
+    400084: polySurface2 1
+    400086: polySurface3
+    400088: polySurface4
+    400090: polySurface5
+    400092: polySurface6
+    400094: polySurface7
+    400096: polySurface8
+    400098: polySurface9
+    400100: transform1
+    400102: transform10
+    400104: transform11
+    400106: transform12
+    400108: transform2
+    400110: transform3
+    400112: transform4
+    400114: transform5
+    400116: transform6
+    400118: transform7
+    400120: transform8
+    400122: transform9
+    2300000: polySurface1
+    2300002: polySurface2
+    2300004: polySurface5
+    3300000: polySurface1
+    3300002: polySurface2
+    3300004: polySurface5
+    4300000: polySurface1
+    4300002: polySurface5
+    4300004: polySurface2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

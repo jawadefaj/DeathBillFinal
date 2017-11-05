@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{038F222C-A270-7B5B-F6C0-CB9E46F8DBE1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.3.3f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_3;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT;MOBILE_INPUT</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_3;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT;MOBILE_INPUT</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\SWS\Plugins\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\SWS\Plugins\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\SWS\Plugins\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\SWS\Plugins\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="VacuumShaders.TerrainToMesh">
+      <HintPath>Assets\VacuumShaders\Terrain To Mesh\Scripts\VacuumShaders.TerrainToMesh.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Heores of 71- KaloRaat.CSharp.Plugins.csproj">
+      <Project>{F8756CD7-EA2A-CE50-FFA6-2F76A1699207}</Project>
+      <Name>Heores of 71- KaloRaat.CSharp.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\AIIKAssertOff.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\AIIKkeepOn.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\DeathStateScript.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\IdleStateGunReset.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\NadeStateController.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\SpwnAnimScript.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AIAnimStateScripts\SufferingControl.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AssistingScripts\AITargetingParameters.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AssistingScripts\ZoneConnectionKeep.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\AssistingScripts\ZonePatrolParameters.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyInternal\AIModelManager.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyInternal\AINoobRajakarPersonnel.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyInternal\AIPersonnel.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyInternal\AIPersonnelCanvasController.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\AIDataManager.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIGeneratorModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIKillAndCleanModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIManagerModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIPatrolModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIRoofieModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\AIRoofieReleaseModule.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\BindForEnemyLowEventWorker.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\WorkerBlockParallelLists.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\GameStateUpdater.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\GeneralManager.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\HUDToggler.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Handy.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Imported\AIAudioScript.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Imported\EnuClaInt.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Imported\InGameSoundManagerScript.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Imported\ProjectileScript.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Phase.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Pool.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\VisionTTBaseWorker.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\Zone.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\ZoneBlock.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\ZoneManager.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\ZoneWalker.cs" />
+    <Compile Include="Assets\ArifWork\00_ScriptsAndModules\ZoneTester.cs" />
+    <Compile Include="Assets\ArifWork\HUDstuff\HUDManager.cs" />
+    <Compile Include="Assets\ArifWork\HUDstuff\InEndGameMenuManager.cs" />
+    <Compile Include="Assets\ArifWork\iBulletImpactImplementations\IBI_EnemyBody.cs" />
+    <Compile Include="Assets\ArifWork\iBulletImpactImplementations\IBI_EnemyHead.cs" />
+    <Compile Include="Assets\ArifWork\iBulletImpactImplementations\IBI_EnemyLimbs.cs" />
+    <Compile Include="Assets\ArifWork\iBulletImpactImplementations\IBI_Inanimate.cs" />
+    <Compile Include="Assets\ArkoWork\External Testing Assets\SWSTest.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\BulletShellGenarator.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\BulletShellProvider.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\CameraController.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\CinematicCoverUp.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\DayNightManager.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\DoorController.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Encription\DESEncription.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Encription\SecurePlayerPrefs.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Enums.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\EnvironmentReplacementHelper.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\GameConstants.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\GameManager.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\GameManagerMaster.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\GunPositionChanger.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ImageEffectBase.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ImageEffects.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\KnifeAnimation.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\KnifeAnimationEndCall.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\KnifeAnimationManager.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Level Managment\CheckPoint.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Level Managment\CheckPointTester.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Level Managment\Level.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Level Managment\LevelManager.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\LookAtManager.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\MainMenuGUI.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ModifiedMovementScript.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\MotionBlur.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\PlayerAI.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\PlayerBulletImpactTaker.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\PlayerInputController.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\PlayerNadeImpactTaker.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\PlayerViewRectContainer.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\RapidFireButton.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\SecuredLevelCode\WeaponLoader.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ShakeCamera.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\SlowMotionBullet.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\SplashScreen.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\StationController.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\ThirdPersonController.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\UserSettings.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Weapon.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\BaseWorker.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\ParallelDependantWorkers.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\SampleWork.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_AIFireSwitch.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_AIMoveToStation.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_CameraZoomValueChanger.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Delay.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_GameEnder.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_GameStarter.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level1DoorOpenForNura.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level1Phase3NuraLatePosSwitch.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level1Phase3Setup.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level1Phase4GameEndCinematics.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level1Phase4Setup.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level2Ending.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level2Phase3Setup.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_Level2PhaseBPlayerSwitch.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_MoveAllToNextStation.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_MoveStation.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_MoveStationManual.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_PlayerChange.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_SceneBlackOut.cs" />
+    <Compile Include="Assets\ArkoWork\Scripts\Workers\Work_TargetSetForAI.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\CameraPanRect.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\IndicatorManager.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\PanRect.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\PhaseEndGameReset.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakTest.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakyCamera.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakyPlayer.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakyPlayerManager.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakyStationController.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\SneakyTestGUI.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_AnimationValueReseter.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_KopilaGameEnding.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_Level2Phase1LastTargetSet.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_MoveToGameEndingPoint.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SetStabEnemyTarget.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SneakyMoveNextStationAuto.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SneakyMoveNextStationManual.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SneakyPlayerChange.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SneakyTargetSet.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_StartAIWalk.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_SwitchToAIWork.cs" />
+    <Compile Include="Assets\ArkoWork\SneakAttackTest\Workers\Work_WaitForStabKillCheck.cs" />
+    <Compile Include="Assets\ArkoWork\WayFinderTest\BoundingBoxTest.cs" />
+    <Compile Include="Assets\ArkoWork\WayFinderTest\MovementControler.cs" />
+    <Compile Include="Assets\ArkoWork\WayFinderTest\WayFinder.cs" />
+    <Compile Include="Assets\BulletGenerator.cs" />
+    <Compile Include="Assets\DeliveryManager.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\Sample Supporting Emitters\DetonatorSprayHelper.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\Detonator.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorBurstEmitter.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorCloudRing.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorComponent.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorFireball.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorForce.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorGlow.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorHeatwave.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorLight.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorShockwave.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorSmoke.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorSound.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorSparks.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorSpray.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\TestScene\DetonatorTest.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\TestScene\TouchToMouse.cs" />
+    <Compile Include="Assets\Detonator Explosion Framework\bridgeController.cs" />
+    <Compile Include="Assets\HUDPlayerAvailabilityManager.cs" />
+    <Compile Include="Assets\InterfaceCheck.cs" />
+    <Compile Include="Assets\NoobRjkRunStartAnimScript.cs" />
+    <Compile Include="Assets\PlayerDMGModifierUpdate.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\CameraInputDemo.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\EventCollisionTrigger.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\EventReceiver.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\PathInputDemo.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\RapidInputDemo.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\RotationHelper.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\RuntimeDemo.cs" />
+    <Compile Include="Assets\SWS\Examples\Scripts\ShowcaseGUI.cs" />
+    <Compile Include="Assets\SWS\Scripts\Helper\MoveAnimator.cs" />
+    <Compile Include="Assets\SWS\Scripts\Helper\PathIndicator.cs" />
+    <Compile Include="Assets\SWS\Scripts\Helper\PathRenderer.cs" />
+    <Compile Include="Assets\SWS\Scripts\Manager\BezierPathManager.cs" />
+    <Compile Include="Assets\SWS\Scripts\Manager\PathManager.cs" />
+    <Compile Include="Assets\SWS\Scripts\Manager\WaypointManager.cs" />
+    <Compile Include="Assets\SWS\Scripts\Movement\bezierMove.cs" />
+    <Compile Include="Assets\SWS\Scripts\Movement\navMove.cs" />
+    <Compile Include="Assets\SWS\Scripts\Movement\splineMove.cs" />
+    <Compile Include="Assets\TimeStamper.cs" />
+    <Compile Include="Assets\TroopCarrierManager.cs" />
+    <Compile Include="Assets\VacuumShaders\Terrain To Mesh\Example Scenes\Scripts\RunTime_Terrain_Convertion.cs" />
+    <Compile Include="Assets\WalkSpeedController.cs" />
+    <Compile Include="Assets\Work_Level2Phase3KorimSolo.cs" />
+    <Compile Include="Assets\rjkAnmChillStart.cs" />
+    <Compile Include="Assets\rjkAnmShootStart.cs" />
+    <Compile Include="Assets\rjkAnmWalkStart.cs" />
+    <Compile Include="Assets\testmoverScript.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\ArkoWork\Materials and Images\MotionBlur.shader" />
+    <None Include="Assets\Detonator Explosion Framework\Resources\Detonator\Textures\HeatDistort.shader" />
+    <None Include="Assets\SWS\Changelog.txt" />
+    <None Include="Assets\SWS\Examples\Assets\Shaders\DiffuseReflectiveShader.shader" />
+    <None Include="Assets\SWS\Plugins\DOTween\DOTween.XML" />
+    <None Include="Assets\SWS\Plugins\DOTween\DOTween43.xml" />
+    <None Include="Assets\SWS\Plugins\DOTween\DOTween46.xml" />
+    <None Include="Assets\SWS\Plugins\DOTween\DOTween50.xml" />
+    <None Include="Assets\SWS\Plugins\DOTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\SWS\Plugins\DOTween\readme.txt" />
+    <None Include="Assets\SWS\README.txt" />
+    <None Include="Assets\SpeedTreeLightMap.shader" />
+    <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+    <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Basemap\Basemap.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Packages\ReadMe.txt" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_5.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_6.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_7.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_8.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_5.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_6.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_7.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_8.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_5.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_6.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_7.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_8.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_2.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_3.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_4.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_5.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_6.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_7.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_8.shader" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Deferred.cginc" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_ODL.cginc" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Unlit.cginc" />
+    <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Variables.cginc" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
+</Project>

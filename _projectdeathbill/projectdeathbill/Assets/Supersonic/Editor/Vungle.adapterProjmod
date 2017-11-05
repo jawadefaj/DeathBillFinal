@@ -1,0 +1,26 @@
+{ 
+"folders": [
+	 "Plugins/ios/Supersonic/SUVungleAdapter/Resources/"
+  ],
+   
+"files": [
+	 "Plugins/ios/Supersonic/SUVungleAdapter/SUVungleAdapter.framework"
+  ],
+
+"libs": [
+	"libsqlite3.dylib"
+],
+"librarysearchpaths": [],
+
+"frameworks": [  
+"AudioToolbox.framework",
+"MediaPlayer.framework",
+"UIKit.framework",
+"WebKit.framework"
+],
+
+"frameworksearchpaths": [
+    "Plugins/iOS/Supersonic/",
+	"Plugins/ios/Supersonic/SUVungleAdapter"
+  ]
+}

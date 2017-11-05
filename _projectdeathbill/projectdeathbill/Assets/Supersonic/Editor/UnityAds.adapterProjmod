@@ -1,0 +1,15 @@
+{
+  "files": [
+	"Plugins/ios/Supersonic/SUUnityAdsAdapter/SUUnityAdsAdapter.framework"
+  ],
+  "librarysearchpaths": [
+  ],
+  "frameworksearchpaths": [
+	"Plugins/ios/Supersonic/",
+	"Plugins/ios/Supersonic/SUUnityAdsAdapter"
+  ],
+  "frameworks": [
+     "StoreKit.framework:weak"
+  ]
+}
+

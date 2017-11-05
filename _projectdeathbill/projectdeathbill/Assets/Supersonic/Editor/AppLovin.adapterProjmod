@@ -1,0 +1,23 @@
+{
+  "files": [
+	"Plugins/ios/Supersonic/SUApplovinAdapter/SUApplovinAdapter.framework"
+  ],
+"libs": [
+  ],
+"librarysearchpaths": [
+],
+"frameworks": [    
+	"AdSupport.framework", 
+	"MediaPlayer.framework", 
+	"UIKit.framework"
+  ],
+  
+"headerpaths": [
+  ],
+  "frameworksearchpaths": [
+    "Plugins/iOS/Supersonic/",
+  	"Plugins/ios/Supersonic/SUApplovinAdapter"
+    ],
+
+"linkers": ["-ObjC"] 
+}

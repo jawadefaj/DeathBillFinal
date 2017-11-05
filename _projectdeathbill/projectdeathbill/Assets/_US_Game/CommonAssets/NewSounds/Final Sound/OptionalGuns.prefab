@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000012359115654}
+  m_IsPrefabParent: 1
+--- !u!1 &1000012359115654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012177160738}
+  - 114: {fileID: 114000011855113918}
+  m_Layer: 0
+  m_Name: OptionalGuns
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012177160738
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012359115654}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.795258e-10, y: 0.00000017263784, z: 0.00000021207052}
+  m_LocalScale: {x: 1.0000012, y: 1, z: 1.0000012}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000011855113918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012359115654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa47800b5ddf47643ba0dd6a0498a9bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  extraAudioClips:
+  - id: 205
+    clip: {fileID: 8300000, guid: 2afd62d6778744327b0116b1c5f7058d, type: 3}
+    volume: 1
+  - id: 206
+    clip: {fileID: 8300000, guid: b0fbe55c1835c4a8aa1608c1700b9ecb, type: 3}
+    volume: 1
+  - id: 105
+    clip: {fileID: 8300000, guid: 26a4615078b434f38b36123101a146bc, type: 3}
+    volume: 1
+  - id: 106
+    clip: {fileID: 8300000, guid: 47e7fa61f58fcc54c9c117731f016cba, type: 3}
+    volume: 1
+  - id: 207
+    clip: {fileID: 8300000, guid: cfe1a1db47ce9154fbca0e5d90c4009a, type: 3}
+    volume: 1

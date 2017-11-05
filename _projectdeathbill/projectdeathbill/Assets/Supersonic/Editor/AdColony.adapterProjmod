@@ -1,0 +1,28 @@
+{
+  "files": [
+	 "Plugins/ios/Supersonic/SUAdColonyAdapter/SUAdColonyAdapter.framework"
+  ],
+"libs": [
+   "libz.1.2.5.dylib"
+  ]
+"librarysearchpaths": [],
+
+"frameworks": [    	
+	"Social.framework",
+	"AdSupport.framework", 
+	"Webkit.framework", 
+	"EventKit.framework",
+	"EventKitUI.framework",
+	"MediaPlayer.framework",
+	"MessageUI.framework",
+	"AudioToolbox.framework"
+  ],
+  
+"frameworksearchpaths": [
+    "Plugins/iOS/Supersonic/",
+	"Plugins/ios/Supersonic/SUAdColonyAdapter"
+  ],
+  
+"linkers": ["-ObjC","-fobjc-arc"]
+
+}

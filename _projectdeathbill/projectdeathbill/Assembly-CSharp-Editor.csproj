@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{B1CD3D50-A0F5-77EB-A8F8-67EDBF154D85}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_1;UNITY_5_4;UNITY_5;UNITY_ADS;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;CROSS_PLATFORM_INPUT;MOBILE_INPUT;ENABLE_DUCK_TYPING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\(Temporary)\PathCreateTest\Editor\PathCreateHelperEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyInternal\Editor\ed_AIModelReplacer.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\EnemyManagement\Modules\Editor\PlayerDMGModifierUpdateEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Sounds\Editor\BaseAudioKeeperEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Sounds\Editor\ExtraAudioKeeperEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\Editor\ZoneBlockEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\Editor\ZoneEditor.cs" />
+     <Compile Include="Assets\ArifWork\00_ScriptsAndModules\Zone\Editor\ZoneManagerEditor.cs" />
+     <Compile Include="Assets\ArifWork\Editor\AIDataManagerEditor.cs" />
+     <Compile Include="Assets\ArifWork\Editor\AINoobRajakarPersonnelEditor.cs" />
+     <Compile Include="Assets\ArifWork\Editor\AIPersonnelEditor.cs" />
+     <Compile Include="Assets\ArifWork\Editor\MatChanger.cs" />
+     <Compile Include="Assets\ArifWork\HUDstuff\Editor\HudManagerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\AIPlayerDataManagerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\ColliderGenerateHelper.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\CustomGizmoSwitch.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\DayNightManagerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\EnvironmentReplaceHelperEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\GUITool.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\GameManagerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\GameManagerMasterEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\GetGlobalPos.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\MasterGizmoSwitch.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\MeshReplacer.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\ModelStructureKeeperEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\PlayerDataManagerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\PlayerInputControllerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\PlayerPrefClearer.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\Editor\TPC_Editor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\ModelReplaceHelper\Editor\PlayerModelReplacerEditor.cs" />
+     <Compile Include="Assets\ArkoWork\Scripts\SecuredLevelCode\Editor\WeaponLoaderEditor.cs" />
+     <Compile Include="Assets\ArkoWork\SneakAttackTest\Editor\CameraPanRectEditor.cs" />
+     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookBuild.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookConsoleEndpoint.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookPostprocess.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookSettingsEditor.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\Utility.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\android\FacebookAndroidUtil.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\android\ManifestMod.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\FixupFiles.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\PListDict.cs" />
+     <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\PListParser.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\AimIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\AimPoserInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\BipedIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\BipedIKSolversInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\CCDIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\ConstraintsInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\FABRIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\FABRIKRootInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\FingerRigInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\FullBodyBipedIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKEffectorInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKExecutionOrderInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverAimInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverFABRIKRootInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverFullBodyBipedInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverFullBodyInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverHeuristicInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverLimbInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverLookAtInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\IKSolverTrigonometricInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\InteractionTargetInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\InteractionTriggerInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\LimbIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\LookAtIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\RotationLimitAngleInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\RotationLimitHingeInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\RotationLimitInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\RotationLimitPolygonalInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\RotationLimitSplineInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\TrigonometricIKInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\FinalIK\_DEMOS\BendGoalInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\Shared Scripts\BipedReferencesInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\Shared Scripts\CommentsInspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\Shared Scripts\Inspector.cs" />
+     <Compile Include="Assets\Final Ik Root\Editor\RootMotion\Shared Scripts\SerializedContent.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\CocoaPodHelper.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSAndroidSetupUI.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSDependencies.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSDocsUI.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSIOSSetupUI.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSInstructionWindow.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSPostBuild.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSProjectSettings.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSStrings.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSUpgrader.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\GPGSUtil.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\NearbyConnectionUI.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\PlistBuddyHelper.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Elements.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Lexer.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Objects.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\PBXProject.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Parser.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Sections.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Serializer.cs" />
+     <Compile Include="Assets\GooglePlayGames\Editor\xcode\Utils.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\DefaultResolver.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\IResolver.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\IronSourceDependencies.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\PlayServicesResolver.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\ResolverVer1_1.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\SampleDependencies.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\SettingsDialog.cs" />
+     <Compile Include="Assets\PlayServicesResolver\Editor\TapJoyDependencies.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\AboutSWSEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\BezierPathEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\CreateWPManager.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\PathEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\ReviewConfig.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\ReviewWindowEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\WaypointEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\bezierMoveEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\moveEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\navMoveEditor.cs" />
+     <Compile Include="Assets\SWS\Scripts\Editor\splineMoveEditor.cs" />
+     <Compile Include="Assets\Simple Mesh Combine\Scripts C\Editor\SimpleMeshCombineEditor.cs" />
+     <Compile Include="Assets\Supersonic\Editor\SupersonicPostProccess.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXBuildFile.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXBuildPhase.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXDictionary.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXFileReference.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXGroup.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXList.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXObject.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXParser.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\PBXProject.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCBuildConfiguration.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCConfigurationList.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCFileOperationQueue.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCMod.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCProject.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCSourceFile.cs" />
+     <Compile Include="Assets\Supersonic\Editor\third-party\XCodeEditor-for-Unity\XCTarget.cs" />
+     <Compile Include="Assets\TaskSequencer\Editor\TaskSequencerEditor.cs" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_2.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\Podfile.txt" />
+     <None Include="Assets\FacebookSDK\SDK\Editor\android\DefaultAndroidManifest.xml" />
+     <None Include="Assets\_US_Game\CommonAssets\Others\MilitaryBuildingElements\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\mraid.js.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Basemap\Basemap.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_6.shader" />
+     <None Include="Assets\SWS\README.txt" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween43.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\ArkoWork\Materials and Images\MotionBlur.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_4.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\template-GameInfo.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_3.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween46.xml" />
+     <None Include="Assets\SWS\Examples\Assets\Shaders\DiffuseReflectiveShader.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\template-AndroidManifest.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_ODL.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_8.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_4.shader" />
+     <None Include="Assets\Plugins\Android\TapjoySampleAndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_2.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\readme.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_5.shader" />
+     <None Include="Assets\Unsorted Staffs\SpeedTreeLightMap.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_2.shader" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_3.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\WebViewJavascriptBridge.js.txt" />
+     <None Include="Assets\Simple Mesh Combine\JavaScript Version\- IMPORTANT - Version Change Readme.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Deferred.cginc" />
+     <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_2.shader" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Variables.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_4.shader" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_3.shader" />
+     <None Include="Assets\_US_Game\_JawadWorks\PPAP.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_8.shader" />
+     <None Include="Assets\Plugins\Android\MainLibProj\AndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_2.shader" />
+     <None Include="Assets\SWS\Changelog.txt" />
+     <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_7.shader" />
+     <None Include="Assets\Plugins\Android\Supersonic\AndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_8.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_8.shader" />
+     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_4.shader" />
+     <None Include="Assets\FacebookSDK\SDK\Scripts\Canvas\Resources\JSSDKBindings.txt" />
+     <None Include="Assets\_US_Game\_AvikWorks\Detonator Explosion Framework\Resources\Detonator\Textures\HeatDistort.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_3.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween50.xml" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_4.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\revision.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Unlit.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Packages\ReadMe.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.EditorTestsRunner">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TreeEditor">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="JarResolverLib">
+ <HintPath>D:/ProjectDeathbill/Assets/PlayServicesResolver/Editor/JarResolverLib.dll</HintPath>
+ </Reference>
+ <Reference Include="App42-Unity3D-SDK-4.1.2">
+ <HintPath>D:/ProjectDeathbill/Assets/Plugins/App42Push/App42-Unity3D-SDK-4.1.2.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenEditor">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Tapjoy">
+ <HintPath>D:/ProjectDeathbill/Assets/Tapjoy/Tapjoy.dll</HintPath>
+ </Reference>
+ <Reference Include="TapjoyEditor">
+ <HintPath>D:/ProjectDeathbill/Assets/Tapjoy/Editor/TapjoyEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="VacuumShaders">
+ <HintPath>D:/ProjectDeathbill/Assets/VacuumShaders/Editor/VacuumShaders.dll</HintPath>
+ </Reference>
+ <Reference Include="VacuumShaders.TerrainToMeshVC">
+ <HintPath>D:/ProjectDeathbill/Assets/VacuumShaders/Terrain To Mesh/Editor/VacuumShaders.TerrainToMeshVC.dll</HintPath>
+ </Reference>
+ <Reference Include="VacuumShaders.TerrainToMesh_Editor">
+ <HintPath>D:/ProjectDeathbill/Assets/VacuumShaders/Terrain To Mesh/Editor/VacuumShaders.TerrainToMesh_Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="VacuumShaders.TerrainToMesh">
+ <HintPath>D:/ProjectDeathbill/Assets/VacuumShaders/Terrain To Mesh/Scripts/VacuumShaders.TerrainToMesh.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{038C775D-8A26-9BAA-0DD4-1FE7D411BA69}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{5D7CF656-23EB-983C-D7A0-5EE864BD255C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{5D0D876F-D467-275B-6D3A-944751E36A8A}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-Editor-firstpass.unityproj">
+      <Project>{E0BEED8B-C72E-CB4E-30E0-8F8ADAD1D86C}</Project>      <Name>Assembly-UnityScript-Editor-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

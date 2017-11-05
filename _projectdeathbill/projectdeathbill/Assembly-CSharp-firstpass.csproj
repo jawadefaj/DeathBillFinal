@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{038C775D-8A26-9BAA-0DD4-1FE7D411BA69}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_1;UNITY_5_4;UNITY_5;UNITY_ADS;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;CROSS_PLATFORM_INPUT;MOBILE_INPUT</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\AppsFlyer.cs" />
+     <Compile Include="Assets\Plugins\AppsFlyerTrackerCallbacks.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\Attributes\AdvertiserOptInAttribute.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\Attributes\RangedTooltipAttribute.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\Attributes\TooltipAttribute.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\Field.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\Fields.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\GAIHandler.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsAndroidV4.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsMPV3.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsV4.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsiOSV3.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\AppViewHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\EventHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\ExceptionHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\HitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\ItemHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\SocialHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\TimingHitBuilder.cs" />
+     <Compile Include="Assets\Plugins\GoogleAnalyticsV4\HitBuilders\TransactionHitBuilder.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\AutoCam.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\PivotBasedCameraRig.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
+     <Compile Include="Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
+     <Compile Include="Assets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ActivateTrigger.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\CameraRefocus.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\CurveControlledBob.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\DragRigidbody.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\EventSystemChecker.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FOVKick.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FPSCounter.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FollowTarget.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ForcedReset.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\LerpControlledBob.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ObjectResetter.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SimpleMouseRotator.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SmoothFollow.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\WaypointCircuit.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_2.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\Podfile.txt" />
+     <None Include="Assets\FacebookSDK\SDK\Editor\android\DefaultAndroidManifest.xml" />
+     <None Include="Assets\_US_Game\CommonAssets\Others\MilitaryBuildingElements\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\mraid.js.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Basemap\Basemap.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_6.shader" />
+     <None Include="Assets\SWS\README.txt" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween43.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\ArkoWork\Materials and Images\MotionBlur.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\BumpedSpecular_4.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\template-GameInfo.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_3.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween46.xml" />
+     <None Include="Assets\SWS\Examples\Assets\Shaders\DiffuseReflectiveShader.shader" />
+     <None Include="Assets\GooglePlayGames\Editor\template-AndroidManifest.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_ODL.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_8.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_4.shader" />
+     <None Include="Assets\Plugins\Android\TapjoySampleAndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_2.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\readme.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_5.shader" />
+     <None Include="Assets\Unsorted Staffs\SpeedTreeLightMap.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_2.shader" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_3.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\WebViewJavascriptBridge.js.txt" />
+     <None Include="Assets\Simple Mesh Combine\JavaScript Version\- IMPORTANT - Version Change Readme.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Deferred.cginc" />
+     <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Bumped_2.shader" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Variables.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_4.shader" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_3.shader" />
+     <None Include="Assets\_US_Game\_JawadWorks\PPAP.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_5.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_8.shader" />
+     <None Include="Assets\Plugins\Android\MainLibProj\AndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_2.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_7.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_2.shader" />
+     <None Include="Assets\SWS\Changelog.txt" />
+     <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_7.shader" />
+     <None Include="Assets\Plugins\Android\Supersonic\AndroidManifest.xml" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_8.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Standard\Diffuse_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_6.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_8.shader" />
+     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_4.shader" />
+     <None Include="Assets\FacebookSDK\SDK\Scripts\Canvas\Resources\JSSDKBindings.txt" />
+     <None Include="Assets\_US_Game\_AvikWorks\Detonator Explosion Framework\Resources\Detonator\Textures\HeatDistort.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Diffuse_4.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Bumped_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\One Directional Light\Bumped_3.shader" />
+     <None Include="Assets\SWS\Plugins\DOTween\DOTween50.xml" />
+     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Legacy Shaders\Diffuse_4.shader" />
+     <None Include="Assets\Plugins\iOS\Resources\TapjoyResources.bundle\revision.txt" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\cginc\T2M_Unlit.cginc" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Shaders\Unlit\Unlit_3.shader" />
+     <None Include="Assets\VacuumShaders\Terrain To Mesh\Packages\ReadMe.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="App42-Unity3D-SDK-4.1.2">
+ <HintPath>D:/ProjectDeathbill/Assets/Plugins/App42Push/App42-Unity3D-SDK-4.1.2.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>D:/ProjectDeathbill/Assets/SWS/Plugins/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="Tapjoy">
+ <HintPath>D:/ProjectDeathbill/Assets/Tapjoy/Tapjoy.dll</HintPath>
+ </Reference>
+ <Reference Include="VacuumShaders.TerrainToMesh">
+ <HintPath>D:/ProjectDeathbill/Assets/VacuumShaders/Terrain To Mesh/Scripts/VacuumShaders.TerrainToMesh.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

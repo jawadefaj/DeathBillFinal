@@ -1,0 +1,19 @@
+{
+"files": [
+	"Plugins/ios/Supersonic/SUChartboostAdapter/SUChartboostAdapter.framework"
+  ],
+"librarysearchpaths": [],
+
+"frameworks": [    	
+	"StoreKit.framework",
+	"Foundation.framework",
+	"CoreGraphics.framework",
+	"UIKit.framework"
+  ],
+  
+"frameworksearchpaths": [
+    "Plugins/iOS/Supersonic/",
+	"Plugins/ios/Supersonic/SUChartboostAdapter"
+  ]
+}
+

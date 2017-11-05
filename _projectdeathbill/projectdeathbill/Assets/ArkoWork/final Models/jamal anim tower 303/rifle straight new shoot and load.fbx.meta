@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: b931dabf2ff1c46c4a7529d495486839
+timeCreated: 1448259134
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rifle_edit_2nd_part:mixamorig:Head
+    100004: rifle_edit_2nd_part:mixamorig:HeadTop_End
+    100006: rifle_edit_2nd_part:mixamorig:Hips
+    100008: rifle_edit_2nd_part:mixamorig:LeftArm
+    100010: rifle_edit_2nd_part:mixamorig:LeftFoot
+    100012: rifle_edit_2nd_part:mixamorig:LeftForeArm
+    100014: rifle_edit_2nd_part:mixamorig:LeftHand
+    100016: rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+    100018: rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+    100020: rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+    100022: rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+    100024: rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+    100026: rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+    100028: rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+    100030: rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+    100032: rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+    100034: rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+    100036: rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+    100038: rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+    100040: rifle_edit_2nd_part:mixamorig:LeftHandRing1
+    100042: rifle_edit_2nd_part:mixamorig:LeftHandRing2
+    100044: rifle_edit_2nd_part:mixamorig:LeftHandRing3
+    100046: rifle_edit_2nd_part:mixamorig:LeftHandRing4
+    100048: rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+    100050: rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+    100052: rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+    100054: rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+    100056: rifle_edit_2nd_part:mixamorig:LeftLeg
+    100058: rifle_edit_2nd_part:mixamorig:LeftShoulder
+    100060: rifle_edit_2nd_part:mixamorig:LeftToe_End
+    100062: rifle_edit_2nd_part:mixamorig:LeftToeBase
+    100064: rifle_edit_2nd_part:mixamorig:LeftUpLeg
+    100066: rifle_edit_2nd_part:mixamorig:Neck
+    100068: rifle_edit_2nd_part:mixamorig:RightArm
+    100070: rifle_edit_2nd_part:mixamorig:RightFoot
+    100072: rifle_edit_2nd_part:mixamorig:RightForeArm
+    100074: rifle_edit_2nd_part:mixamorig:RightHand
+    100076: rifle_edit_2nd_part:mixamorig:RightHandIndex1
+    100078: rifle_edit_2nd_part:mixamorig:RightHandIndex2
+    100080: rifle_edit_2nd_part:mixamorig:RightHandIndex3
+    100082: rifle_edit_2nd_part:mixamorig:RightHandIndex4
+    100084: rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+    100086: rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+    100088: rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+    100090: rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+    100092: rifle_edit_2nd_part:mixamorig:RightHandPinky1
+    100094: rifle_edit_2nd_part:mixamorig:RightHandPinky2
+    100096: rifle_edit_2nd_part:mixamorig:RightHandPinky3
+    100098: rifle_edit_2nd_part:mixamorig:RightHandPinky4
+    100100: rifle_edit_2nd_part:mixamorig:RightHandRing1
+    100102: rifle_edit_2nd_part:mixamorig:RightHandRing2
+    100104: rifle_edit_2nd_part:mixamorig:RightHandRing3
+    100106: rifle_edit_2nd_part:mixamorig:RightHandRing4
+    100108: rifle_edit_2nd_part:mixamorig:RightHandThumb1
+    100110: rifle_edit_2nd_part:mixamorig:RightHandThumb2
+    100112: rifle_edit_2nd_part:mixamorig:RightHandThumb3
+    100114: rifle_edit_2nd_part:mixamorig:RightHandThumb4
+    100116: rifle_edit_2nd_part:mixamorig:RightLeg
+    100118: rifle_edit_2nd_part:mixamorig:RightShoulder
+    100120: rifle_edit_2nd_part:mixamorig:RightToe_End
+    100122: rifle_edit_2nd_part:mixamorig:RightToeBase
+    100124: rifle_edit_2nd_part:mixamorig:RightUpLeg
+    100126: rifle_edit_2nd_part:mixamorig:Spine
+    100128: rifle_edit_2nd_part:mixamorig:Spine1
+    100130: rifle_edit_2nd_part:mixamorig:Spine2
+    100132: rifle_edit_2nd_part:polySurface3_3
+    100134: rifle_right
+    400000: //RootNode
+    400002: rifle_edit_2nd_part:mixamorig:Head
+    400004: rifle_edit_2nd_part:mixamorig:HeadTop_End
+    400006: rifle_edit_2nd_part:mixamorig:Hips
+    400008: rifle_edit_2nd_part:mixamorig:LeftArm
+    400010: rifle_edit_2nd_part:mixamorig:LeftFoot
+    400012: rifle_edit_2nd_part:mixamorig:LeftForeArm
+    400014: rifle_edit_2nd_part:mixamorig:LeftHand
+    400016: rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+    400018: rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+    400020: rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+    400022: rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+    400024: rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+    400026: rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+    400028: rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+    400030: rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+    400032: rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+    400034: rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+    400036: rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+    400038: rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+    400040: rifle_edit_2nd_part:mixamorig:LeftHandRing1
+    400042: rifle_edit_2nd_part:mixamorig:LeftHandRing2
+    400044: rifle_edit_2nd_part:mixamorig:LeftHandRing3
+    400046: rifle_edit_2nd_part:mixamorig:LeftHandRing4
+    400048: rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+    400050: rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+    400052: rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+    400054: rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+    400056: rifle_edit_2nd_part:mixamorig:LeftLeg
+    400058: rifle_edit_2nd_part:mixamorig:LeftShoulder
+    400060: rifle_edit_2nd_part:mixamorig:LeftToe_End
+    400062: rifle_edit_2nd_part:mixamorig:LeftToeBase
+    400064: rifle_edit_2nd_part:mixamorig:LeftUpLeg
+    400066: rifle_edit_2nd_part:mixamorig:Neck
+    400068: rifle_edit_2nd_part:mixamorig:RightArm
+    400070: rifle_edit_2nd_part:mixamorig:RightFoot
+    400072: rifle_edit_2nd_part:mixamorig:RightForeArm
+    400074: rifle_edit_2nd_part:mixamorig:RightHand
+    400076: rifle_edit_2nd_part:mixamorig:RightHandIndex1
+    400078: rifle_edit_2nd_part:mixamorig:RightHandIndex2
+    400080: rifle_edit_2nd_part:mixamorig:RightHandIndex3
+    400082: rifle_edit_2nd_part:mixamorig:RightHandIndex4
+    400084: rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+    400086: rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+    400088: rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+    400090: rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+    400092: rifle_edit_2nd_part:mixamorig:RightHandPinky1
+    400094: rifle_edit_2nd_part:mixamorig:RightHandPinky2
+    400096: rifle_edit_2nd_part:mixamorig:RightHandPinky3
+    400098: rifle_edit_2nd_part:mixamorig:RightHandPinky4
+    400100: rifle_edit_2nd_part:mixamorig:RightHandRing1
+    400102: rifle_edit_2nd_part:mixamorig:RightHandRing2
+    400104: rifle_edit_2nd_part:mixamorig:RightHandRing3
+    400106: rifle_edit_2nd_part:mixamorig:RightHandRing4
+    400108: rifle_edit_2nd_part:mixamorig:RightHandThumb1
+    400110: rifle_edit_2nd_part:mixamorig:RightHandThumb2
+    400112: rifle_edit_2nd_part:mixamorig:RightHandThumb3
+    400114: rifle_edit_2nd_part:mixamorig:RightHandThumb4
+    400116: rifle_edit_2nd_part:mixamorig:RightLeg
+    400118: rifle_edit_2nd_part:mixamorig:RightShoulder
+    400120: rifle_edit_2nd_part:mixamorig:RightToe_End
+    400122: rifle_edit_2nd_part:mixamorig:RightToeBase
+    400124: rifle_edit_2nd_part:mixamorig:RightUpLeg
+    400126: rifle_edit_2nd_part:mixamorig:Spine
+    400128: rifle_edit_2nd_part:mixamorig:Spine1
+    400130: rifle_edit_2nd_part:mixamorig:Spine2
+    400132: rifle_edit_2nd_part:polySurface3_3
+    400134: rifle_right
+    2300000: rifle_right
+    3300000: rifle_right
+    4300000: rifle_edit_2nd_part:polySurface3_3
+    4300002: rifle_right
+    7400000: Jamal_Fire_n_Reload
+    7400002: jamal-aim
+    7400004: RajakarFire
+    9500000: //RootNode
+    13700000: rifle_edit_2nd_part:polySurface3_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'rifle_edit_2nd_part:mixamorig:Spine2' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jamal_Fire_n_Reload
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: -60
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.34243858
+        functionName: MiniLoadSound_Jamal
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.56417894
+        functionName: GenerateBulletShell
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase/rifle_edit_2nd_part:mixamorig:LeftToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase/rifle_edit_2nd_part:mixamorig:RightToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3/rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3/rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3/rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3/rifle_edit_2nd_part:mixamorig:LeftHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3/rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_right
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head/rifle_edit_2nd_part:mixamorig:HeadTop_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3/rifle_edit_2nd_part:mixamorig:RightHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3/rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3/rifle_edit_2nd_part:mixamorig:RightHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3/rifle_edit_2nd_part:mixamorig:RightHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3/rifle_edit_2nd_part:mixamorig:RightHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:polySurface3_3
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jamal-aim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase/rifle_edit_2nd_part:mixamorig:LeftToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase/rifle_edit_2nd_part:mixamorig:RightToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3/rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3/rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3/rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3/rifle_edit_2nd_part:mixamorig:LeftHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3/rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_right
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head/rifle_edit_2nd_part:mixamorig:HeadTop_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3/rifle_edit_2nd_part:mixamorig:RightHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3/rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3/rifle_edit_2nd_part:mixamorig:RightHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3/rifle_edit_2nd_part:mixamorig:RightHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3/rifle_edit_2nd_part:mixamorig:RightHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:polySurface3_3
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RajakarFire
+      takeName: Take 001
+      firstFrame: -5
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:LeftUpLeg/rifle_edit_2nd_part:mixamorig:LeftLeg/rifle_edit_2nd_part:mixamorig:LeftFoot/rifle_edit_2nd_part:mixamorig:LeftToeBase/rifle_edit_2nd_part:mixamorig:LeftToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:RightUpLeg/rifle_edit_2nd_part:mixamorig:RightLeg/rifle_edit_2nd_part:mixamorig:RightFoot/rifle_edit_2nd_part:mixamorig:RightToeBase/rifle_edit_2nd_part:mixamorig:RightToe_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandIndex1/rifle_edit_2nd_part:mixamorig:LeftHandIndex2/rifle_edit_2nd_part:mixamorig:LeftHandIndex3/rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandMiddle1/rifle_edit_2nd_part:mixamorig:LeftHandMiddle2/rifle_edit_2nd_part:mixamorig:LeftHandMiddle3/rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandPinky1/rifle_edit_2nd_part:mixamorig:LeftHandPinky2/rifle_edit_2nd_part:mixamorig:LeftHandPinky3/rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandRing1/rifle_edit_2nd_part:mixamorig:LeftHandRing2/rifle_edit_2nd_part:mixamorig:LeftHandRing3/rifle_edit_2nd_part:mixamorig:LeftHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_edit_2nd_part:mixamorig:LeftHandThumb1/rifle_edit_2nd_part:mixamorig:LeftHandThumb2/rifle_edit_2nd_part:mixamorig:LeftHandThumb3/rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:LeftShoulder/rifle_edit_2nd_part:mixamorig:LeftArm/rifle_edit_2nd_part:mixamorig:LeftForeArm/rifle_edit_2nd_part:mixamorig:LeftHand/rifle_right
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:Neck/rifle_edit_2nd_part:mixamorig:Head/rifle_edit_2nd_part:mixamorig:HeadTop_End
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandIndex1/rifle_edit_2nd_part:mixamorig:RightHandIndex2/rifle_edit_2nd_part:mixamorig:RightHandIndex3/rifle_edit_2nd_part:mixamorig:RightHandIndex4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandMiddle1/rifle_edit_2nd_part:mixamorig:RightHandMiddle2/rifle_edit_2nd_part:mixamorig:RightHandMiddle3/rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandPinky1/rifle_edit_2nd_part:mixamorig:RightHandPinky2/rifle_edit_2nd_part:mixamorig:RightHandPinky3/rifle_edit_2nd_part:mixamorig:RightHandPinky4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandRing1/rifle_edit_2nd_part:mixamorig:RightHandRing2/rifle_edit_2nd_part:mixamorig:RightHandRing3/rifle_edit_2nd_part:mixamorig:RightHandRing4
+        weight: 0
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3
+        weight: 1
+      - path: rifle_edit_2nd_part:mixamorig:Hips/rifle_edit_2nd_part:mixamorig:Spine/rifle_edit_2nd_part:mixamorig:Spine1/rifle_edit_2nd_part:mixamorig:Spine2/rifle_edit_2nd_part:mixamorig:RightShoulder/rifle_edit_2nd_part:mixamorig:RightArm/rifle_edit_2nd_part:mixamorig:RightForeArm/rifle_edit_2nd_part:mixamorig:RightHand/rifle_edit_2nd_part:mixamorig:RightHandThumb1/rifle_edit_2nd_part:mixamorig:RightHandThumb2/rifle_edit_2nd_part:mixamorig:RightHandThumb3/rifle_edit_2nd_part:mixamorig:RightHandThumb4
+        weight: 0
+      - path: rifle_edit_2nd_part:polySurface3_3
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: rifle_edit_2nd_part:mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rifle_edit_2nd_part:mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: rifle straight new shoot and load(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:polySurface3_3
+      position: {x: 0, y: 0.90240157, z: 0.012870394}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 95, y: 95, z: 95}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Hips
+      position: {x: 0, y: 0.9971552, z: -0.011789287}
+      rotation: {x: 0.0000000039213583, y: -0.000000031370867, z: 1.2301641e-16, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightUpLeg
+      position: {x: 0.04642, y: -0.056258995, z: 0.013975}
+      rotation: {x: 0.001160478, y: 0.019417293, z: 0.99803007, w: -0.05964596}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightLeg
+      position: {x: -0, y: 0.424528, z: 0}
+      rotation: {x: -0.0655301, y: 0.004887634, z: -0.074218705, w: 0.9950747}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightFoot
+      position: {x: -0, y: 0.41161597, z: 0}
+      rotation: {x: 0.514449, y: -0.040349618, z: 0.02424327, w: 0.856228}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightToeBase
+      position: {x: -0, y: 0.149973, z: 0}
+      rotation: {x: 0.30048922, y: 0.042091716, z: -0.013275201, w: 0.95276356}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightToe_End
+      position: {x: -0, y: 0.060482997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftUpLeg
+      position: {x: -0.04642, y: -0.056258995, z: 0.025657998}
+      rotation: {x: -0.00054446614, y: 0.0091053285, z: 0.9981753, w: 0.059689976}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftLeg
+      position: {x: -0, y: 0.424281, z: 0}
+      rotation: {x: -0.06190635, y: -0.0046173804, z: 0.07423631, w: 0.9953067}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftFoot
+      position: {x: -0, y: 0.412162, z: 0}
+      rotation: {x: 0.5244669, y: 0.038716685, z: -0.023882909, w: 0.8502148}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftToeBase
+      position: {x: -0, y: 0.152309, z: 0}
+      rotation: {x: 0.29550204, y: -0.04103974, z: 0.012707136, w: 0.9543756}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftToe_End
+      position: {x: -0, y: 0.061332997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Spine
+      position: {x: -0, y: 0.101265, z: -0.01264}
+      rotation: {x: -0.06204955, y: 0.000000047452268, z: -0.0000000049077826, w: 0.9980731}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Spine1
+      position: {x: -0, y: 0.119059, z: 0}
+      rotation: {x: -0.00000051036477, y: -0.000000016627128, z: 0.000000006569113,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Spine2
+      position: {x: -0, y: 0.136068, z: 0}
+      rotation: {x: 0.000000007450581, y: -0.00000006289609, z: -0.0000000026641023,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftShoulder
+      position: {x: -0.062471, y: 0.13675, z: -0.001938}
+      rotation: {x: 0.55052793, y: -0.43932748, z: 0.5677997, w: 0.42604455}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftArm
+      position: {x: -0, y: 0.130745, z: 0}
+      rotation: {x: -0.104566574, y: 0.0011752546, z: -0.011177525, w: 0.99445444}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftForeArm
+      position: {x: -0, y: 0.244472, z: 0}
+      rotation: {x: -0.027133953, y: 0.00056877726, z: -0.020947276, w: 0.9994122}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHand
+      position: {x: -0, y: 0.316248, z: 0}
+      rotation: {x: 0.008747279, y: 0.059900843, z: -0.06788183, w: -0.9958552}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: rifle_right
+      position: {x: -0.034598313, y: 0.05930929, z: 0.008362316}
+      rotation: {x: 0.48009184, y: 0.847136, z: -0.22740597, w: 0.0126083465}
+      scale: {x: 0.5, y: 0.5, z: 0.5}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandRing1
+      position: {x: -0.009401999, y: 0.100504994, z: -0.000586}
+      rotation: {x: -0.012270687, y: 0.0007664262, z: 0.062327377, w: -0.99798006}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandRing2
+      position: {x: -0.000002, y: 0.032782998, z: 0}
+      rotation: {x: -0.0023228673, y: -0.000000059604638, z: 0.000000029802319, w: 0.9999974}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandRing3
+      position: {x: -0.000002, y: 0.029920999, z: 0}
+      rotation: {x: 0.01812863, y: 0.000000029802315, z: -0.000000029802315, w: 0.9998357}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandRing4
+      position: {x: 0.000004, y: 0.026572999, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandPinky1
+      position: {x: -0.033412002, y: 0.086224005, z: 0.000032}
+      rotation: {x: -0.018591253, y: 0.0010929554, z: 0.0586785, w: -0.99810326}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandPinky2
+      position: {x: 0.000004, y: 0.033520997, z: 0}
+      rotation: {x: -0.006232424, y: -0.000000089406946, z: 0.000000029802315, w: 0.99998057}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandPinky3
+      position: {x: 0.000002, y: 0.027843, z: 0}
+      rotation: {x: -0.030108936, y: -0.000000014901158, z: 0, w: 0.99954665}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandPinky4
+      position: {x: -0.000006, y: 0.024288, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandThumb1
+      position: {x: 0.029647999, y: 0.027393999, z: 0.020515}
+      rotation: {x: -0.028461633, y: -0.023901239, z: 0.36607495, w: -0.92984295}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000006}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandThumb2
+      position: {x: 0.00415, y: 0.035986, z: 0}
+      rotation: {x: 0.010012509, y: 0.00037059165, z: -0.04721576, w: 0.99883443}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999996}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandThumb3
+      position: {x: -0.0019719999, y: 0.035483, z: 0}
+      rotation: {x: -0.04041257, y: 0.0008326613, z: -0.0023179185, w: 0.9991801}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandThumb4
+      position: {x: -0.002178, y: 0.029075, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandMiddle1
+      position: {x: 0.009473, y: 0.097039, z: -0.0014049999}
+      rotation: {x: -0.02871611, y: 0.0018693204, z: 0.06492731, w: -0.997475}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandMiddle2
+      position: {x: 0.000008999999, y: 0.036073998, z: 0}
+      rotation: {x: -0.019931862, y: 0.000000029802315, z: -0.000000089406946, w: 0.9998014}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandMiddle3
+      position: {x: 0.000001, y: 0.033403, z: 0}
+      rotation: {x: -0.031457815, y: 0.00000008940694, z: 0.00000011920925, w: 0.9995051}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandMiddle4
+      position: {x: -0.000010000001, y: 0.029700998, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandIndex1
+      position: {x: 0.033340998, y: 0.089903, z: 0.000462}
+      rotation: {x: -0.008896618, y: 0.0005913525, z: 0.06632387, w: -0.9977584}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandIndex2
+      position: {x: -0.000003, y: 0.03431, z: 0}
+      rotation: {x: 0.009905886, y: -0.00000008940694, z: 0.000000014901156, w: 0.999951}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandIndex3
+      position: {x: -0.000008999999, y: 0.031524997, z: 0}
+      rotation: {x: 0.041147593, y: 0.0000006556507, z: 0.000060588085, w: 0.9991531}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:LeftHandIndex4
+      position: {x: 0.000012, y: 0.027792, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Neck
+      position: {x: -0, y: 0.153076, z: 0}
+      rotation: {x: 0.062050056, y: 0.00000004781725, z: -0.000000010778463, w: 0.99807304}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:Head
+      position: {x: -0, y: 0.079049, z: 0.029124998}
+      rotation: {x: -0.000000011568007, y: 0.000000011764083, z: -0.000000008087803,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:HeadTop_End
+      position: {x: -0, y: 0.229455, z: 0.08454099}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightShoulder
+      position: {x: 0.062471, y: 0.13677399, z: -0.002134}
+      rotation: {x: -0.5495608, y: -0.44009376, z: 0.56857073, w: -0.4254737}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightArm
+      position: {x: -0, y: 0.130745, z: 0}
+      rotation: {x: 0.10436337, y: 0.0013377069, z: -0.012742994, w: -0.9944567}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightForeArm
+      position: {x: -0, y: 0.244472, z: 0}
+      rotation: {x: -0.026478136, y: -0.0006898491, z: 0.014227878, w: 0.99954796}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHand
+      position: {x: -0, y: 0.31623, z: 0}
+      rotation: {x: -0.006428688, y: 0.061330967, z: -0.055903964, w: 0.99652994}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandMiddle1
+      position: {x: -0.008909999, y: 0.101978, z: -0.001161}
+      rotation: {x: 0.028521568, y: 0.0013555288, z: 0.04745616, w: 0.9984651}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandMiddle2
+      position: {x: -0.000003, y: 0.035459, z: 0}
+      rotation: {x: -0.03053401, y: 0.000000059604638, z: 0.00000013411044, w: 0.9995338}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999994}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandMiddle3
+      position: {x: 0.000011, y: 0.032665998, z: 0}
+      rotation: {x: 0.039559025, y: 0.000000029802315, z: 0, w: 0.9992173}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandMiddle4
+      position: {x: -0.0000069999996, y: 0.028792, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandPinky1
+      position: {x: 0.032093998, y: 0.092011005, z: -0.00039099998}
+      rotation: {x: -0.03522432, y: -0.00083328784, z: -0.023637608, w: -0.9990995}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999976}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandPinky2
+      position: {x: -0.0000050000003, y: 0.032954, z: 0}
+      rotation: {x: 0.040469807, y: -0.000000059604638, z: -0.00000004470348, w: -0.9991808}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandPinky3
+      position: {x: 0.000010000001, y: 0.026279999, z: 0}
+      rotation: {x: -0.041168462, y: -0.00000077486004, z: 0.000048220136, w: -0.9991523}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandPinky4
+      position: {x: -0.0000050000003, y: 0.02315, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandThumb1
+      position: {x: -0.028905, y: 0.029716998, z: 0.019803999}
+      rotation: {x: 0.030526735, y: -0.026289368, z: 0.3537638, w: 0.93446684}
+      scale: {x: 1.0000002, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandThumb2
+      position: {x: -0.004381, y: 0.036493, z: 0}
+      rotation: {x: 0.018190993, y: -0.00081306655, z: 0.029283436, w: 0.99940526}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandThumb3
+      position: {x: 0.000379, y: 0.036382, z: 0}
+      rotation: {x: -0.025030574, y: -0.0019554042, z: 0.032747287, w: 0.9991483}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandThumb4
+      position: {x: 0.004002, y: 0.028912, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandRing1
+      position: {x: 0.010531, y: 0.106173, z: -0.000955}
+      rotation: {x: 0.016254097, y: 0.00094124675, z: 0.05780235, w: 0.9981953}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandRing2
+      position: {x: 0.0000050000003, y: 0.031740997, z: 0}
+      rotation: {x: -0.010090172, y: -0.00000008940697, z: -0.00000013411045, w: 0.99994916}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandRing3
+      position: {x: 0.0000069999996, y: 0.029365, z: 0}
+      rotation: {x: 0.041407507, y: -0.0000003278254, z: -0.000023037184, w: 0.9991424}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandRing4
+      position: {x: -0.000012, y: 0.024942998, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandIndex1
+      position: {x: -0.033715997, y: 0.097186, z: 0.00065099995}
+      rotation: {x: -0.0005658567, y: -0.000023514032, z: 0.04156573, w: 0.9991357}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandIndex2
+      position: {x: 0.000004, y: 0.03288, z: 0}
+      rotation: {x: -0.026284084, y: 0.000000059604645, z: -0.00000008940697, w: -0.99965453}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandIndex3
+      position: {x: -0.0000069999996, y: 0.030855998, z: 0}
+      rotation: {x: 0.024641583, y: -0.000000029802315, z: 0.00000005960463, w: -0.9996963}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: rifle_edit_2nd_part:mixamorig:RightHandIndex4
+      position: {x: 0.000003, y: 0.027112, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ArkoWork\Scripts\PlayerInputController.cs">
+    <Files>
+      <File FileName="Assets\ArkoWork\Scripts\StationController.cs" Line="144" Column="25" />
+      <File FileName="Assets\ArkoWork\Scripts\PlayerInputController.cs" Line="330" Column="3" />
+      <File FileName="Assets\ArkoWork\Scripts\ThirdPersonController.cs" Line="331" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Heroes of 71 - Project 2" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="ArkoWork" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerInputController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
